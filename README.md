@@ -9,9 +9,11 @@ This program is a simple file management utility developed as an assignment for 
 - **Delete a File**: Deletes a file at a specified path.
 - **Open and Read a File**: Opens a text file and displays its contents.
 
-## Usage
+## Dependencies
 
-1. Clone this repository to your local machine:
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+- **Compiler**: GCC or Clang compiler with support for C++17 or later.
+- **POSIX Libraries**: POSIX-compliant operating system (e.g., Linux, WSL 2).
+
+## About
+
+This code was written with assistance from GitHub Copilot, an AI-powered coding tool. It was created as a submission for the Automotive Software Engineering course assignment, showcasing practical skills in file system manipulation using C++.
